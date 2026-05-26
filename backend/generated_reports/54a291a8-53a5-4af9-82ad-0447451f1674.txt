@@ -1,0 +1,17 @@
+Personal Finance Manager Report
+========================================
+User: test
+Generated at: 2026-04-29 11:53:40.568297
+Transactions count: 4
+Total amount: 248000.00
+
+By category:
+- book: 38000.00
+- tea: 200000.00
+- bbjk: 10000.00
+
+Transactions:
+#7 | 10000.0 | book | 
+#8 | 200000.0 | tea | 
+#9 | 10000.0 | bbjk | 
+#10 | 28000.0 | book | 

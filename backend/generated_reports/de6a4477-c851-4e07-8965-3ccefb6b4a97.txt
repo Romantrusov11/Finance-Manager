@@ -1,0 +1,12 @@
+Personal Finance Manager Report
+========================================
+User: user_cab24662
+Generated at: 2026-04-29 11:55:55.588001
+Transactions count: 1
+Total amount: 200.00
+
+By category:
+- Education: 200.00
+
+Transactions:
+#11 | 200.0 | Education | Books

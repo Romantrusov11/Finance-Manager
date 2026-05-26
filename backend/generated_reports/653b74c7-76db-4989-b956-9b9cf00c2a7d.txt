@@ -1,0 +1,12 @@
+Personal Finance Manager Report
+========================================
+User: user_68163803
+Generated at: 2026-04-29 11:22:06.435166
+Transactions count: 1
+Total amount: 200.00
+
+By category:
+- Education: 200.00
+
+Transactions:
+#5 | 200.0 | Education | Books
