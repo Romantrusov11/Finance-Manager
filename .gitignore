@@ -1,1 +1,30 @@
-"__pycache__/\n*.pyc\n*.db\n*.sqlite\n.env\n.vscode/\n*.log" 
+# Виртуальное окружение
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Базы данных
+*.db
+*.sqlite
+finance.db
+
+# Отчеты и временные файлы
+generated_reports/
+reports/
+*.docx
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Системные
+.DS_Store
+Thumbs.db
